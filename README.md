@@ -22,4 +22,4 @@ Planning a Groceries site
    - [] algorithm codes for possible errors?
    - [] create starting algorithm
 
-- [x]Basic Planning
+- [x] Basic Planning
