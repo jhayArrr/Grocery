@@ -1,14 +1,25 @@
 # Grocery
 Planning a Groceries site
 
-**to do list**
-algorithm codes
-- [] how do I get the whole sale cost?
-- [] How do I get the algorithm for the scales/weights?
-- [] create a shelfing algorithm
-- [] create a scale/stocking algorithm
-- [] find out the mean, median and mode for the products.
-- [] algorithm codes for customers question?
-- [] algorithm codes for possible errors?
+## To do List
+- Receiving Groceries
+   - [] Name of object
+   - [] Shape
+   - [] Dimensions
+      - [] Length
+      - [] Width
+      - [] Height
+      - [] Diameter
+   - [] Carrying capacity
 
-- [X]basic planning
+- Algorithm codes
+   - [] how do I get the whole sale cost?
+   - [] How do I get the algorithm for the scales/weights?
+   - [] create an algorithm for stacking/shelving
+   - [] create a scale/stocking algorithm
+   - [] find out the mean, median and mode for the products.
+   - [] algorithm codes for customers question?
+   - [] algorithm codes for possible errors?
+   - [] create starting algorithm
+
+- [X]Basic Planning
